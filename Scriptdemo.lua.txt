@@ -30,7 +30,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
       })
       
 ------ Tab
-     local Tab1o = MakeTab({Name = "Farm"})
+     local Tab1o = MakeTab({Name = "script premium maru"})
      
 ------- BUTTON
     
@@ -49,7 +49,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/mai
   })
   
 ------ Tab
-     local Tab1o = MakeTab({Name = "Farm"})
+     local Tab2o = MakeTab({Name = "script maru"})
      
 ------- BUTTON
     
